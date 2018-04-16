@@ -176,7 +176,7 @@
     {
       "name": "Variable",
       "scope":
-        "variable, variable.other.object.js.jsx, support.variable.property.dom",
+        "variable, variable.other.object.js.jsx, support.variable.property.dom, source.python",
       "settings": {
         "foreground": "#d4bfff"
       }
@@ -221,7 +221,7 @@
     {
       "name": "Function, Special Method, Block Level",
       "scope":
-        "entity.name.function, keyword.other.special-method, meta.block-level, support.function.console.js, support.function.dom.js, support.function.js.jsx",
+        "entity.name.function, keyword.other.special-method, meta.block-level, support.function.console.js, support.function.dom.js, support.function.js.jsx, meta.function-call.python",
       "settings": {
         "foreground": "#FFD580"
       }

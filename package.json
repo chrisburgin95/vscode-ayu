@@ -2,7 +2,7 @@
   "name": "quills",
   "displayName": "Quills",
   "description": "A simple theme based on AYU Mirage.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "chrisburgin95",
   "license": "MIT",
   "repository": {
@@ -33,5 +33,10 @@
   },
   "devDependencies": {
     "vsce": "1.22.0"
+  },
+  "__metadata": {
+    "id": "f84e4b5e-96fc-4cd8-b953-fe87db93bcb6",
+    "publisherDisplayName": "Chris Burgin",
+    "publisherId": "17694c12-43fe-47da-bfec-e3c17bb210b8"
   }
 }
